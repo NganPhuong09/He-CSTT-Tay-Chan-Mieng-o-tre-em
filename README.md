@@ -121,8 +121,6 @@ Nếu bạn muốn tùy chỉnh lại hệ thống, hãy chú ý đến các fil
 
 ---
 <div align="center">
-  <b>Phát triển bởi Võ Minh Ngọc • © 2025</b>
+  <b>Phát triển bởi Võ Minh Ngọc, Lê Phạm Mỹ Ngọc và Nguyễn Phan Phương Ngân • © 2025</b>
 </div>
-<div align="center">
-    <b>Cập nhật, chỉnh sửa bởi Lê Phạm Mỹ Ngọc và Nguyễn Phan Phương Ngân • © 2025</b>
-</div>
+
